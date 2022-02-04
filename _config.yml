@@ -41,10 +41,10 @@ round-avatar: true
 social-network-links:
   email: "hirerohitkakarala@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: github.com/karoh4042
+  github: karoh4042
 #  medium: yourname
 #  reddit: yourname
-  linkedin: https://www.linkedin.com/in/rohitkakarala/
+  linkedin: rohitkakarala
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
